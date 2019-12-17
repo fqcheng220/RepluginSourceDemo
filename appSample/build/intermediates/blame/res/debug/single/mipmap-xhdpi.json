@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

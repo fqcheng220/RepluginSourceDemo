@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+MERGED from [com.qihoo360.replugin:replugin-plugin-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84ca5ad7fd60276b0f86042f1ee38737\jetified-replugin-plugin-lib-2.3.3\AndroidManifest.xml:17:1-27:12
+MERGED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+	package
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:20:5-177:19
+MERGED from [com.qihoo360.replugin:replugin-plugin-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84ca5ad7fd60276b0f86042f1ee38737\jetified-replugin-plugin-lib-2.3.3\AndroidManifest.xml:24:5-25:19
+MERGED from [com.qihoo360.replugin:replugin-plugin-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84ca5ad7fd60276b0f86042f1ee38737\jetified-replugin-plugin-lib-2.3.3\AndroidManifest.xml:24:5-25:19
+MERGED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:11:5-19:19
+MERGED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:11:5-19:19
+	android:supportsRtl
+		ADDED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:23:9-40
+	android:allowBackup
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:22:9-36
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:21:9-32
+meta-data#process_map
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:26:9-30:19
+	android:value
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:26:9-30:19
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:27:13-39
+activity#com.qihoo360.replugin.sample.demo1.MainActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:32:9-41:20
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:36:13-49
+	android:exported
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:35:13-36
+	android:configChanges
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:39:27-74
+activity#com.qihoo360.replugin.sample.demo1.activity.standard.StandardActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:44:9-47:52
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:47:13-49
+	android:exported
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:45:13-63
+activity#com.qihoo360.replugin.sample.demo1.activity.theme.ThemeBlackNoTitleBarActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:50:9-55:69
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:54:13-49
+	android:launchMode
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:53:13-44
+	android:exported
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:52:13-37
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:51:13-72
+activity#com.qihoo360.replugin.sample.demo1.activity.theme.ThemeDialogActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:58:9-62:59
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:61:13-49
+	android:exported
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:60:13-37
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:62:13-56
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:59:13-63
+activity#com.qihoo360.replugin.sample.demo1.activity.theme.ThemeBlackNoTitleBarFullscreenActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:65:9-74:20
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:68:13-77
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:66:13-82
+intent-filter#action:name:com.qihoo360.replugin.sample.demo1.action.theme_fullscreen+category:name:android.intent.category.DEFAULT+category:name:com.qihoo360.repluginapp.replugin.demo1.CATEGORY1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:69:13-73:29
+action#com.qihoo360.replugin.sample.demo1.action.theme_fullscreen
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:70:17-101
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:70:25-98
+category#android.intent.category.DEFAULT
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:71:27-73
+category#com.qihoo360.repluginapp.replugin.demo1.CATEGORY1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:72:17-94
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:72:27-91
+receiver#com.qihoo360.replugin.sample.demo1.receivers.PluginDemo1Receiver
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:77:9-81:20
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:77:19-64
+intent-filter#action:name:com.qihoo360.repluginapp.replugin.receiver.ACTION1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:78:13-80:29
+action#com.qihoo360.repluginapp.replugin.receiver.ACTION1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:79:17-93
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:79:25-90
+service#com.qihoo360.replugin.sample.demo1.service.PluginDemoAppService
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:84:9-85:60
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:85:13-57
+service#com.qihoo360.replugin.sample.demo1.service.PluginDemoService1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:86:9-88:37
+	android:process
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:88:13-34
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:87:13-55
+service#com.qihoo360.replugin.sample.demo1.service.PluginDemoService2
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:89:9-94:19
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:90:13-55
+intent-filter#action:name:com.qihoo360.replugin.sample.demo1.action.XXXX
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:91:13-93:29
+action#com.qihoo360.replugin.sample.demo1.action.XXXX
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:92:17-89
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:92:25-86
+activity#com.qihoo360.replugin.sample.demo1.activity.task_affinity.TAActivity1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:97:9-101:69
+	android:launchMode
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:99:13-44
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:101:13-66
+	android:taskAffinity
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:100:13-41
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:98:13-63
+activity#com.qihoo360.replugin.sample.demo1.activity.task_affinity.TAActivity2
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:102:9-106:69
+	android:launchMode
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:104:13-44
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:106:13-66
+	android:taskAffinity
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:105:13-41
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:103:13-63
+activity#com.qihoo360.replugin.sample.demo1.activity.task_affinity.TAActivity3
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:107:9-111:69
+	android:launchMode
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:109:13-44
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:111:13-66
+	android:taskAffinity
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:110:13-41
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:108:13-63
+activity#com.qihoo360.replugin.sample.demo1.activity.task_affinity.TAActivity4
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:112:9-116:69
+	android:launchMode
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:114:13-44
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:116:13-66
+	android:taskAffinity
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:115:13-41
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:113:13-63
+activity#com.qihoo360.replugin.sample.demo1.activity.single_instance.TIActivity1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:120:9-123:69
+	android:launchMode
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:122:13-48
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:123:13-66
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:121:13-65
+activity#com.qihoo360.replugin.sample.demo1.activity.single_top.SingleTopActivity1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:126:9-129:69
+	android:launchMode
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:128:13-43
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:129:13-66
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:127:13-67
+activity#com.qihoo360.replugin.sample.demo1.activity.intent_filter.IntentFilterDemoActivity1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:133:9-141:20
+	android:theme
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:135:13-66
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:134:13-77
+intent-filter#action:name:android.intent.action.demo1+category:name:android.intent.category.DEFAULT+category:name:category_demo
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:136:13-140:29
+action#android.intent.action.demo1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:137:17-70
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:137:25-67
+category#category_demo
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:139:17-58
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:139:27-55
+activity#com.qihoo360.replugin.sample.demo1.activity.preference.PrefActivity1
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:143:9-146:51
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:146:13-49
+	android:configChanges
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:145:13-72
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:144:13-62
+activity#com.qihoo360.replugin.sample.demo1.activity.preference.PrefActivity2
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:148:9-151:51
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:151:13-49
+	android:configChanges
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:150:13-72
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:149:13-62
+activity#com.qihoo360.replugin.sample.demo1.activity.webview.WebViewActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:153:9-155:51
+	android:screenOrientation
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:155:13-49
+	android:configChanges
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:154:13-72
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:153:19-67
+provider#com.qihoo360.replugin.sample.demo1.provider.Provider2
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:157:9-159:82
+	android:authorities
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:159:13-79
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:158:13-47
+activity#com.qihoo360.replugin.sample.demo1.activity.for_result.ForResultActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:161:9-74
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:161:19-72
+activity#com.qihoo360.replugin.sample.demo1.activity.file_provider.FileProviderActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:163:9-80
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:163:19-78
+activity#com.qihoo360.replugin.sample.demo1.activity.notify_test.NotifyActivity
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:165:9-72
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:165:19-70
+provider#com.qihoo360.replugin.sample.demo1.provider.FileProvider
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:168:9-176:20
+	android:grantUriPermissions
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:172:13-47
+	android:authorities
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:170:13-82
+	android:exported
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:171:13-37
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:169:13-84
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:173:13-175:61
+	android:resource
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:175:17-58
+	android:name
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:174:17-67
+uses-sdk
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+MERGED from [com.qihoo360.replugin:replugin-plugin-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84ca5ad7fd60276b0f86042f1ee38737\jetified-replugin-plugin-lib-2.3.3\AndroidManifest.xml:22:5-43
+MERGED from [com.qihoo360.replugin:replugin-plugin-lib:2.3.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84ca5ad7fd60276b0f86042f1ee38737\jetified-replugin-plugin-lib-2.3.3\AndroidManifest.xml:22:5-43
+MERGED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:7:5-9:41
+MERGED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+		ADDED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+		INJECTED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12 reason: com.qihoo360.replugin.library has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12 reason: com.qihoo360.replugin.library has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\MyWork\Android\Projects\RepluginSourceDemo\appPlugin1\src\main\AndroidManifest.xml:17:1-178:12 reason: com.qihoo360.replugin.library requested WRITE_EXTERNAL_STORAGE
+activity#com.qihoo360.replugin.sample.library.LibMainActivity
+ADDED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:15:9-18:20
+	android:label
+		ADDED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from [:plugin-library:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9e366a8fc164470e05d7919b2e9ec12\plugin-library\AndroidManifest.xml:16:13-80

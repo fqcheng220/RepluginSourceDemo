@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4200300b0b2cf5434c3c75fb2ecaabfde39937ef\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4200300b0b2cf5434c3c75fb2ecaabfde39937ef\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

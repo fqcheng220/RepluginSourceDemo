@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyWork\Android\Projects\RePlugin\replugin-sample\host\utils\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\MyWork\Android\Projects\RePlugin\replugin-sample\host\utils\src\debug\jniLibs"/></dataSet></merger>

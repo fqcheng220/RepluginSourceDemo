@@ -1,0 +1,33 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.qihoo360.replugin.library.test" >
+4
+5    <uses-sdk
+5-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:5:5-72
+6        android:minSdkVersion="1"
+6-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:5:15-40
+7        android:targetSdkVersion="1" />
+7-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:5:41-69
+8
+9    <instrumentation
+9-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:11:5-15:84
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:13:22-53
+13        android:label="Tests for com.qihoo360.replugin.library.test"
+13-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:15:22-82
+14        android:targetPackage="com.qihoo360.replugin.library.test" />
+14-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:12:22-80
+15
+16    <application android:debuggable="true" >
+16-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:7:5-9:19
+16-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:8:9-60
+17-->D:\MyWork\Android\Projects\RepluginSourceDemo\replugin-plugin-lib\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8170442579182295684.xml:8:23-57
+18    </application>
+19
+20</manifest>
