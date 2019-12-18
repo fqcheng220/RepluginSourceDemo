@@ -13,3 +13,15 @@
 /captures
 .externalNativeBuild
 .cxx
+
+appSample/build
+utilsSample/build
+
+libraryPlugin1/build
+appPlugin1/build
+
+replugin-host-gradle/build
+replugin-host-lib/build
+
+replugin-plugin-gradle/build
+replugin-plugin-lib/build
