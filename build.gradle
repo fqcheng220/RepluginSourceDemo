@@ -8,7 +8,7 @@ buildscript {{ p, cfg = "rp-config.gradle" -> if (new File(p, cfg).exists()) app
         
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.5.2'
+        classpath 'com.android.tools.build:gradle:3.1.4'
 
         classpath "com.qihoo360.replugin:replugin-host-gradle:${RP_VERSION}"
         classpath "com.qihoo360.replugin:replugin-plugin-gradle:${RP_VERSION}"

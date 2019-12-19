@@ -1,9 +1,0 @@
-#Internal package file, do not edit.
-#Mon Dec 16 17:23:31 CST 2019
-1.file=D\:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\utils\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
-1.set=DEX
-0.file=D\:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\utils\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-1.base=D\:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\utils\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-0.base=D\:\\MyWork\\Android\\Projects\\RePlugin\\replugin-sample\\host\\utils\\build\\intermediates\\res\\resources-debug.ap_
-0.set=ANDROID_RESOURCE
-count=2

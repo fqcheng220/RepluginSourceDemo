@@ -101,7 +101,7 @@ public class MainActivity extends Activity {
                 v.getContext().startActivity(intent);
             }
         }));
-        mItems.add(new TestItem("Activity: Standard", new View.OnClickListener() {
+        mItems.add(new TestItem("Activity: Standard吃饭去", new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(v.getContext(), StandardActivity.class);

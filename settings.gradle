@@ -1,2 +1,2 @@
-include ':app', ':replugin-host-gradle', ':replugin-plugin-gradle', ':replugin-host-lib', ':replugin-plugin-lib', ':appSample', ':utilsSample', ':appPlugin1', ':libraryPlugin1'
+include ':app', ':replugin-plugin-gradle', ':replugin-host-lib', ':replugin-plugin-lib', ':appSample', ':utilsSample', ':appPlugin1', ':libraryPlugin1'
 rootProject.name='RepluginSourceDemo'
