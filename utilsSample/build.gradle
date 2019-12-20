@@ -37,7 +37,7 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'androidx.legacy:legacy-support-v4:1.0.0'
+    compile 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
 }
 
 task makeJar(type: Jar, dependsOn: ['build']) {

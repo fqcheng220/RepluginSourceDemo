@@ -19,6 +19,9 @@ utilsSample/build
 
 libraryPlugin1/build
 appPlugin1/build
+appPlugin2/build
+appPlugin3Kotlin/build
+appWebView/build
 
 replugin-host-gradle/build
 replugin-host-lib/build

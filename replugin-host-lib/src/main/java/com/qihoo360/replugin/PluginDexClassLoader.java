@@ -96,33 +96,37 @@ public class PluginDexClassLoader extends DexClassLoader {
         // 插件自己的Class。从自己开始一直到BootClassLoader，采用正常的双亲委派模型流程，读到了就直接返回
         Class<?> pc = null;
         ClassNotFoundException cnfException = null;
-        try {
-            pc = super.loadClass(className, resolve);
-            if (pc != null) {
-                // 只有开启“详细日志”才会输出，防止“刷屏”现象
-                if (LogDebug.LOG && RePlugin.getConfig().isPrintDetailLog()) {
-                    LogDebug.d(TAG, "loadClass: load plugin class, cn=" + className);
-                }
-                return pc;
-            }
-        } catch (ClassNotFoundException e) {
-            // Do not throw "e" now
-            cnfException = e;
+        if("androidx.fragment.app.Fragment".equals(className)){
 
-            if (PluginDexClassLoaderPatch.need2LoadFromHost(className)) {
-                try {
-                    return loadClassFromHost(className, resolve);
-                } catch (ClassNotFoundException e1) {
-                    // Do not throw "e1" now
-                    cnfException = e1;
-
-                    if (LogDebug.LOG) {
-                        LogDebug.e(TAG, "loadClass ClassNotFoundException, from HostClassLoader&&PluginClassLoader, cn=" + className + ", pluginName=" + mPluginName);
+        }else{
+            try {
+                pc = super.loadClass(className, resolve);
+                if (pc != null) {
+                    // 只有开启“详细日志”才会输出，防止“刷屏”现象
+                    if (LogDebug.LOG && RePlugin.getConfig().isPrintDetailLog()) {
+                        LogDebug.d(TAG, "loadClass: load plugin class, cn=" + className);
                     }
+                    return pc;
                 }
-            } else {
-                if (LogDebug.LOG) {
-                    LogDebug.e(TAG, "loadClass ClassNotFoundException, from PluginClassLoader, cn=" + className + ", pluginName=" + mPluginName);
+            } catch (ClassNotFoundException e) {
+                // Do not throw "e" now
+                cnfException = e;
+
+                if (PluginDexClassLoaderPatch.need2LoadFromHost(className)) {
+                    try {
+                        return loadClassFromHost(className, resolve);
+                    } catch (ClassNotFoundException e1) {
+                        // Do not throw "e1" now
+                        cnfException = e1;
+
+                        if (LogDebug.LOG) {
+                            LogDebug.e(TAG, "loadClass ClassNotFoundException, from HostClassLoader&&PluginClassLoader, cn=" + className + ", pluginName=" + mPluginName);
+                        }
+                    }
+                } else {
+                    if (LogDebug.LOG) {
+                        LogDebug.e(TAG, "loadClass ClassNotFoundException, from PluginClassLoader, cn=" + className + ", pluginName=" + mPluginName);
+                    }
                 }
             }
         }
